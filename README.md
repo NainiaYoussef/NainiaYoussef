@@ -16,8 +16,8 @@
 
 🎓 20 y/o **AI & Data Science** student from **Morocco**  
 🧠 Interested in **Machine Learning**, **App Dev**, and **Game Development**  
-🎮 Creating intelligent and immersive digital experiences  
-💡 Driven by curiosity, creativity, and futuristic perspectives  
+🎮 Making tech smarter and games more immersive  
+💡 Motivated to innovate through experimentation and creativity  
 
 > “Inspired by science fiction. Powered by code.”
 
@@ -32,7 +32,7 @@
 
 #### 🔧 Tools & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,chartjs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,chartjs,godot,unity,unrealengine" />
 </p>
 
 ---
@@ -54,12 +54,12 @@
 ### 📊 GitHub Power Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NainiaYoussef&theme=neon-dark" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NainiaYoussef&show_icons=true&theme=neon-dark" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=neon-dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=neon-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NainiaYoussef&theme=react-dark&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&area=true" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ### 👁 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NainiaYoussef&label=Visitors&color=orange&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=orange&style=for-the-badge" />
 </p>
 
 ---
