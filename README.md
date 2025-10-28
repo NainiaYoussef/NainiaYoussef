@@ -1,83 +1,137 @@
-<!-- Cyber Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=3500&pause=1000&color=00F7F6&center=true&vCenter=true&width=900&lines=🤖+Welcome+to+my+Coding+Zone;👾+Game+Developer+%7C+AI+Explorer;✨+Smart+Tech+Meets+Pixel+Dreams" />
-</h1>
+🎮 **Nainia Youssef** — AI & Game Development Enthusiast
 
-<p align="center">
-  <img src="https://media.giphy.com/media/PHm3JHcahH2W0/giphy.gif" width="120" alt="Pixel Robot"/>
-</p>
+<div align="center">
 
----
+![AI Developer](https://img.shields.io/badge/-AI_Developer-purple?style=for-the-badge)
+![Game Developer](https://img.shields.io/badge/-Game_Developer-green?style=for-the-badge)
+![Morocco](https://img.shields.io/badge/-Morocco-red?style=for-the-badge)
 
-### 👨‍💻 Profile
+**20 y/o AI & Data Science Student | Passionate Developer from Morocco**
 
-I am **Nainia Youssef**, a 20-year-old **AI and Data Science student from Morocco**.  
-Passionate about **AI**, **App Development**, and **Game Development**.  
-Mission: Build intelligent systems that **feel alive** and games that **feel fun**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-nainia-6964842a4/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/ousseef.exe/)
 
-🎮 Fueled by creativity  
-🤖 Trained in logic  
-🚀 Always leveling up
+<img src="https://profile-counter.glitch.me/NainiaYoussef/count.svg" />
+
+</div>
 
 ---
 
-### 🛠 Tech Arsenal
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,react,nodejs,express,git,github,godot,html,css,sql,chartjs&perline=8" />
-</p>
+```python
+class NainiaYoussef:
+    def __init__(self):
+        self.name = "Nainia Youssef"
+        self.age = 20
+        self.location = "Morocco"
+        self.field = "AI & Data Science"
+        self.passions = ["Artificial Intelligence", "Game Development", "App Development"]
+    
+    def skills(self):
+        return {
+            "languages": ["Python", "C", "JavaScript", "GD Script", "SQL"],
+            "web_tech": ["React", "Node.js", "Express.js", "HTML", "CSS", "Chart.js"],
+            "ai_ml": ["Machine Learning", "Neural Networks", "Data Analysis"],
+            "game_dev": ["Game Design", "2D/3D Graphics", "Physics Engines"],
+            "tools": ["Git", "Multer", "TensorFlow", "PyTorch"]
+        }
 
----
+    def current_mission(self):
+        return "Building intelligent systems and immersive gaming experiences!"
+🎯 Tech Stack
+🤖 Artificial Intelligence & Data Science
 
-### 🎨 The Game-Dev Spirit
 
-<p align="center">
-  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="180" alt="Pacman" />
-</p>
 
-> Code is my controller.  
-> Tech is my power-up.  
-> Error is the final boss.
 
----
 
-### 📊 Stats HUD
+🎮 Game Development
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NainiaYoussef&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NainiaYoussef&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NainiaYoussef&theme=react-dark&area=true" />
-</p>
 
----
 
-### 🤝 Social Links
+💻 Web Development
 
-<p align="center">
-<a href="https://www.linkedin.com/in/youssef-nainia-6964842a4">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/ousseef.exe/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-</p>
 
----
 
-### 👁 Visitor Counter
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NainiaYoussef&label=Profile+Visits&color=red&style=for-the-badge" />
-</p>
 
----
+🗄️ Databases & Backend
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btZnTQ1jz7yGw1G/giphy.gif" width="120" alt="Press Start"/>
-</p>
 
-<h3 align="center">Press Start to Continue</h3>
+
+
+🎮 Featured Projects
+🤖 AI-Powered Game NPCs
+Intelligent non-player characters using machine learning for realistic gameplay.
+
+python
+Copy code
+# AI Behavior Tree Example
+class SmartNPC:
+    def __init__(self):
+        self.behavior_tree = BehaviorTree()
+        self.ml_model = load_ai_model()
+
+    def make_decision(self, game_state):
+        return self.ml_model.predict(game_state)
+📊 Data Visualization Dashboard
+Interactive analytics with Chart.js and React.
+
+🎯 Multiplayer Web Game
+Real-time gaming experience with Node.js and WebSockets.
+
+sql
+Copy code
+Features:
+├── Real-time multiplayer
+├── AI-powered opponents
+├── Progressive Web App
+└── Cross-platform compatibility
+📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NainiaYoussef&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NainiaYoussef&layout=compact&theme=radical" /> <img src="https://streak-stats.demolab.com/?user=NainiaYoussef&theme=radical" /> </div>
+🎨 Pac-Man ASCII
+bash
+Copy code
+    ____        
+   /    \       
+  /  ◠   \      
+ /  /   \  \    
+/__/     \__\   
+   \____/       
+🌟 Current Focus
+Advanced Machine Learning Algorithms
+
+AI Integration in Game Development
+
+Cross-Platform App Development
+
+Real-time Data Processing
+
+📫 Let's Connect
+<div align="center">
+📧: (Add your email if you want)
+🌐 Portfolio: (Coming soon)
+
+"Turning ideas into intelligent digital experiences" ✨
+
+</div>
+<div align="center">
+⚡ Fun Fact: The best games are the ones where AI learns from players
+
+
+
+🚀 Always coding the next big thing in AI and gaming
+
+</div>
+🎯 What I am Working on Now
+js
+Copy code
+const currentProjects = {
+    aiResearch: "Neural Networks for Game AI",
+    gameDev: "Procedural Content Generation",
+    webApps: "Real-time Data Dashboards",
+    learning: ["Deep Learning", "Computer Vision", "Cloud AI"]
+};
+⭐ If you enjoy my work, consider giving my repos a star!
