@@ -187,7 +187,7 @@ SQL          █░░░░░░░░░░░░░░░░░░░░   3
 <td width="50%">
 
 ### 🤖 AI Projects
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=NainiaYoussef&repo=ai-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6)]([https://github.com/NainiaYousse](https://github.com/NainiaYoussef/NEXORE))
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=NainiaYoussef&repo=ai-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6)]([https://github.com/NainiaYousse])
 
 </td>
 <td width="50%">
@@ -250,10 +250,12 @@ mindmap
 
 <div align="center">
 
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
