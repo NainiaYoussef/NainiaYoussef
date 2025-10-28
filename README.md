@@ -47,8 +47,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NainiaYoussef&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NainiaYoussef&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
