@@ -1,137 +1,119 @@
-# Hi, I'm Youssef 👋
+# Youssef Nai Nia
 
-### AI & Data Engineering Student | Machine Learning | Full-Stack Development
+### Artificial Intelligence · Data Engineering · Computational Systems
 
-I'm a **Data Engineering / AI Engineering student** with a strong interest in **Artificial Intelligence, Machine Learning, software engineering, and intelligent applications**.
-
-I enjoy turning ideas into practical projects — from AI-powered educational platforms and document processing systems to mobile applications and game development.
+> Engineering intelligent, data-driven, and interactive systems.
 
 ---
 
-## 🚀 About Me
+## ⟡ Computational Intelligence
 
-*  **Data Engineering / AI Engineering student**
-*  Interested in **Artificial Intelligence & Machine Learning**
-*  Interested in **Data Engineering, Data Science & intelligent systems**
-*  Full-stack development enthusiast
-*  Interested in **Game Development & Pixel Art**
-*  Currently exploring **LLMs, RAG, computer vision and AI-powered applications**
-*  Based in Morocco
-*  Languages: **Arabic · French · English**
+Exploring the design and implementation of intelligent systems through machine learning, deep learning, large language models, and computer vision.
+
+**Areas of interest**
+
+`Machine Learning` · `Deep Learning` · `LLMs` · `Computer Vision` · `Natural Language Processing` · `Intelligent Systems`
 
 ---
 
-## 🛠️ Tech Stack
+## ⟡ Data & Information Systems
 
-### Programming Languages
+Designing pipelines and architectures for transforming raw, heterogeneous information into structured and actionable data.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,php,js,html,css" />
-</p>
+**Areas of interest**
 
-### AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-* PyTorch
-* TensorFlow
-* Pandas
-* NumPy
-* LangChain
-* Ollama
-* Large Language Models (LLMs)
-* OCR & Document Processing
-* Computer Vision
-
-### Web & Application Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,streamlit" />
-</p>
-
-* React
-* Next.js
-* React Native
-* Expo
-* FastAPI
-* Streamlit
-* REST APIs
-
-### Data & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
-
-* SQL
-* Data Processing
-* Database Design
-* ETL / Data Pipelines
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,blender,godot" />
-</p>
+`Data Engineering` · `ETL` · `Data Processing` · `Information Extraction` · `Document Intelligence` · `Database Systems`
 
 ---
 
+## ⟡ Computational Pedagogy
 
-###  Game Development
+Applying artificial intelligence to educational systems, with a focus on automated assessment, knowledge extraction, and adaptive learning workflows.
 
-I also experiment with **2D game development, pixel art, and game design**, particularly around RPG and cozy fantasy concepts.
+### AI Educational Platform
 
-**Technologies:**
-`Godot` · `GDScript` · `Pixel Art`
+An intelligent document-processing system capable of transforming educational material and examination documents into structured, interactive learning experiences.
+
+**Architecture**
+
+`Python` · `FastAPI` · `Streamlit` · `PyMuPDF` · `OCR` · `LangChain` · `Ollama` · `Gemma`
 
 ---
 
-## 📜 Certifications
+## ⟡ Computer Vision & Digital Reconstruction
 
-* **CS50x — Harvard University**
+Exploring computational approaches to reconstructing and representing physical objects from visual information.
+
+### GemMorph
+
+An experimental system exploring the transformation of **2D jewelry imagery into 3D representations**, combining mobile interfaces with 3D asset generation workflows.
+
+`React Native` · `Expo` · `Blender` · `GLB`
+
+---
+
+## ⟡ Interactive Systems & Virtual Environments
+
+Exploring the intersection of software engineering, interactive simulation, game systems, and procedural world-building.
+
+### Game Development
+
+Developing experimental **2D RPG environments** with an emphasis on systems design, world-building, gameplay mechanics, and pixel-based visual development.
+
+`Godot` · `GDScript` · `Pixel Art` · `Game Systems`
+
+---
+
+## ⟡ Software Architecture
+
+Building applications across multiple layers — from low-level programming and data processing to APIs, interfaces, and intelligent services.
+
+**Languages**
+
+`Python` · `C` · `JavaScript` · `PHP` · `SQL` · `Assembly`
+
+**Frameworks & Systems**
+
+`FastAPI` · `React` · `Next.js` · `React Native` · `Expo` · `Streamlit`
+
+**Machine Intelligence**
+
+`PyTorch` · `TensorFlow` · `Pandas` · `LangChain` · `Ollama`
+
+**Infrastructure & Tooling**
+
+`Git` · `Linux` · `Docker` · `Blender` · `Godot`
+
+---
+
+## ⟡ Current Research Interests
+
+**Computational Intelligence**
+**Document Intelligence**
+**Large Language Models**
+**Computer Vision**
+**Data Engineering**
+**Knowledge Extraction**
+**Interactive Systems**
+**Procedural Generation**
+**3D Reconstruction**
+
+---
+
+## ⟡ Academic Formation
+
+**Data Engineering · Artificial Intelligence · Software Engineering**
+
+Selected programs & certifications:
+
+* **Harvard CS50x**
 * **CCNA**
 * **Oxford Artificial Intelligence Programme**
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <sub>
+    Intelligence · Information · Interaction
+  </sub>
 </p>
-
----
-
-##  Currently
-
-I'm currently focused on improving my skills in:
-
-* Artificial Intelligence & Machine Learning
-* Data Engineering
-* Large Language Models
-* Backend & API development
-* Computer Vision
-* Software Architecture
-* Building real-world AI applications
-
----
-
-##  Let's Connect
-
-I'm always interested in **AI, data, software engineering, open-source projects, internships, and interesting technical collaborations**.
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-> **Build. Learn. Experiment. Repeat.**
